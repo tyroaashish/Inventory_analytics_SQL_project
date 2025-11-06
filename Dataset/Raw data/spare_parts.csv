@@ -1,0 +1,121 @@
+Part_ID,Part_Name,Category,Unit_Cost
+P001,Brake Shoe (BG),Mechanical,150
+P002,Bogie Frame (ICF Type),Electrical,350
+P003,Axle Bearing,Track,220
+P004,Headlight Lamp (110V),Signaling,740
+P005,Pantograph Carbon Strip,Coach,575
+P006,Signal Relay (24V DC),Diesel Loco,1040
+P007,Coach Window Glass,Electric Loco,1500
+P008,Fish Plate (52kg),Safety,390
+P009,Rail Clip (ERC),General Consumables,145
+P010,Diesel Filter,Mechanical,600
+P011,Turbocharger Blade,Electrical,1025
+P012,Traction Motor Bearing,Track,580
+P013,High Voltage Fuse (25kV),Signaling,1280
+P014,Fire Extinguisher (CO₂),Coach,1070
+P015,Steel Bolt (M16),Diesel Loco,1850
+P016,Copper Wire Roll,Electric Loco,2400
+P017,Signal Lamp,Safety,660
+P018,Speedometer Cable,General Consumables,280
+P019,Draw Hook,Mechanical,1050
+P020,Draft Gear,Electrical,1700
+P021,Shock Absorber,Track,940
+P022,Brake Lever,Signaling,1820
+P023,Horn Assembly,Coach,1565
+P024,Alternator (Diesel Loco),Diesel Loco,2660
+P025,Gear Case,Electric Loco,3300
+P026,Bearing Housing,Safety,930
+P027,Axle Box Cover,General Consumables,415
+P028,Side Buffer Assembly,Mechanical,1500
+P029,Suspension Spring (Coil),Electrical,2375
+P030,Helical Spring,Track,1300
+P031,Brake Cylinder,Signaling,2360
+P032,Piston Ring (Diesel Engine),Coach,2060
+P033,Fuel Injector,Diesel Loco,3470
+P034,Governor Assembly,Electric Loco,4200
+P035,Control Valve,Safety,1200
+P036,Air Compressor Kit,General Consumables,550
+P037,Coupler Assembly,Mechanical,1950
+P038,Hand Brake Wheel,Electrical,3050
+P039,Brake Block Hanger,Track,1660
+P040,Sand Pipe Nozzle,Signaling,2900
+P041,Track Nut,Coach,2555
+P042,Crossing Nose (Manganese Steel),Diesel Loco,4280
+P043,Tongue Rail,Electric Loco,5100
+P044,Point Machine Motor,Safety,1470
+P045,Signal Post Clamp,General Consumables,685
+P046,LED Signal Aspect,Mechanical,2400
+P047,Track Circuit Relay,Electrical,3725
+P048,Insulated Rail Joint,Track,2020
+P049,Clamp Lock,Signaling,3440
+P050,Axle Counter Sensor,Coach,3050
+P051,Track Gauge Rod,Diesel Loco,5090
+P052,Level Crossing Gate Motor,Electric Loco,6000
+P053,Coach Seat Cushion,Safety,1740
+P054,Berth Frame,General Consumables,820
+P055,Water Tap (Coach),Mechanical,2850
+P056,Flushing Valve,Electrical,4400
+P057,Coach Door Latch,Track,2380
+P058,Emergency Window Glass,Signaling,3980
+P059,Coach Fan (110V),Coach,3545
+P060,Coach Light Fitting,Diesel Loco,5900
+P061,Lavatory Sink,Electric Loco,6900
+P062,Roof Ventilator,Safety,2010
+P063,Dustbin (Stainless Steel),General Consumables,955
+P064,Coach Mirror,Mechanical,3300
+P065,Sliding Door Lock,Electrical,5075
+P066,Water Tank (Coach),Track,2740
+P067,Handrail (Coach),Signaling,4520
+P068,Diesel Engine Oil Pump,Coach,4040
+P069,Fuel Pump Assembly,Diesel Loco,6710
+P070,Radiator Fan Blade,Electric Loco,7800
+P071,Cylinder Head,Safety,2280
+P072,Camshaft,General Consumables,1090
+P073,Crankshaft,Mechanical,3750
+P074,Connecting Rod,Electrical,5750
+P075,Air Filter,Track,3100
+P076,Oil Cooler,Signaling,5060
+P077,Turbocharger Casing,Coach,4535
+P078,Exhaust Manifold,Diesel Loco,7520
+P079,Piston Assembly,Electric Loco,8700
+P080,Traction Motor Armature,Safety,2550
+P081,Traction Motor Stator,General Consumables,1225
+P082,Rectifier Unit,Mechanical,4200
+P083,Inverter Module,Electrical,6425
+P084,Circuit Breaker (25kV),Track,3460
+P085,Overhead Equipment Clamp,Signaling,5600
+P086,Earthing Device,Coach,5030
+P087,Roof Busbar,Diesel Loco,8330
+P088,High Voltage Cable,Electric Loco,9600
+P089,Transformer Oil Pump,Safety,2820
+P090,Silica Gel Breather,General Consumables,1360
+P091,Vacuum Circuit Breaker,Mechanical,4650
+P092,Pantograph Spring,Electrical,7100
+P093,Surge Arrester,Track,3820
+P094,Safety Helmet,Signaling,6140
+P095,Protective Gloves,Coach,5525
+P096,First Aid Kit,Diesel Loco,9140
+P097,Emergency Torch,Electric Loco,10500
+P098,Fire Blanket,Safety,3090
+P099,Safety Shoes,General Consumables,1495
+P100,High Visibility Jacket,Mechanical,5100
+P101,Signal Flag (Red),Electrical,7775
+P102,Walkie Talkie,Track,4180
+P103,Track Wrench,Signaling,6680
+P104,Grease Gun,Coach,6020
+P105,Lubrication Oil Can,Diesel Loco,9950
+P106,Spanner Set,Electric Loco,11400
+P107,Hammer (Ball Pein),Safety,3360
+P108,Drill Bit Set,General Consumables,1630
+P109,Welding Rods 3.15 mm,Mechanical,5
+P110,Measuring Tape,Electrical,8450
+P111,Steel Ruler,Track,4540
+P112,Hand Saw,Signaling,7220
+P113,Hydraulic Jack,Coach,6515
+P114,Bearing Puller,Diesel Loco,10760
+P115,Pipe Wrench,Electric Loco,12300
+P116,Screwdriver Set,Safety,3630
+P117,Nut Bolt Assortment,General Consumables,1765
+P118,Grinding Wheel,Mechanical,6000
+P119,35 mm Bush,Mechanical,1600
+P120,Welding Rods 4.0 mm,Mechanical,8
